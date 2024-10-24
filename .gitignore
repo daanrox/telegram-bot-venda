@@ -1,0 +1,5 @@
+venv
+.env
+webhook
+qrcode.jpg
+qrcode.png
